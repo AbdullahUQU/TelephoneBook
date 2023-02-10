@@ -2,7 +2,7 @@
 The digital telephon book project is a simulation of the contact app on smart phone,However
 it works on console.
 ## How it works?
-Starting with a table the provide program services
+Starting with a table that provid program services
 then you can start your jurnal by adding at least one contact.
 ```
 ex : adding contact
