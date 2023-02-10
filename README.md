@@ -26,7 +26,7 @@ Please select your service:
  Enter the number please: 0511111111
  done.
 ```
-Full guide video [[GitHub Pages](https://pages.github.com/](https://www.youtube.com/watch?v=yVfe15_I5kQ)).
+Full guide video [https://www.youtube.com/watch?v=yVfe15_I5kQ]
 ## For how many users?
 one user.
 ## Requirement
