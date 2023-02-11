@@ -30,7 +30,7 @@ Full guide video [https://www.youtube.com/watch?v=yVfe15_I5kQ]
 ## For how many users?
 one user.
 ## Requirement
-At least one valid contact.
+Full Java environment
 ## Thanks a lot
 Project Leader
 Abdullah Bamufleh
